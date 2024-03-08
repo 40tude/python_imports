@@ -10,12 +10,12 @@ import sys
 # import utils
 
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
-print()
-print(PROJECT_ROOT)
+# print()
+# print(PROJECT_ROOT)
 
 sys.path.append(PROJECT_ROOT)
-print()
-print(sys.path)
+# print()
+# print(sys.path)
 import utils
 
 
