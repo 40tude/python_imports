@@ -1,8 +1,8 @@
-### read 
+### You should read 
 
 * https://medium.com/towards-data-science/understanding-python-imports-init-py-and-pythonpath-once-and-for-all-4c5249ab6355
 
-
+### My notes
 * The python interpreter look for the directory containing the module we are importing in ```sys.path``` (see V2/example3.py)
 * Once the interpreter is done with the cached modules and the standard library modules ```sys.path``` is the list where it will search for.
 * Remember : whenever an import statement is executed, the entire module is run (see V3)
